@@ -1,2 +1,2 @@
 # ragFraudDetectionFinance
-Solving financial use cases using RAG/GenAI
+Solving financial use cases using RAG/GenAI.
